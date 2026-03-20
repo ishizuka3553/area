@@ -65,6 +65,10 @@ namespace WordTableReader
                                 string cellValue = cells[j].GetText();
                                 var preRow = table.Rows[i - 1];
                                 var preCell = preRow.GetTableCells();
+                                if (preCell[0].GetText() == "")
+                                {
+                                    break;
+                                }
                                 if (j == 2 && cellValue == "") {
                                     if (!parseDate(preCell[1].GetText())) {
                                         Console.WriteLine($"エラーが発生しました。区域番号 {preCell[0].GetText()} の日付 {preCell[1].GetText()} が間違っています。");
