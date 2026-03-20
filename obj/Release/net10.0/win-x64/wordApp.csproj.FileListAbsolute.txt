@@ -217,3 +217,4 @@ C:\Users\i4zhd\Documents\wordApp\obj\Release\net10.0\win-x64\refint\wordApp.dll
 C:\Users\i4zhd\Documents\wordApp\obj\Release\net10.0\win-x64\wordApp.pdb
 C:\Users\i4zhd\Documents\wordApp\obj\Release\net10.0\win-x64\wordApp.genruntimeconfig.cache
 C:\Users\i4zhd\Documents\wordApp\obj\Release\net10.0\win-x64\ref\wordApp.dll
+C:\Users\i4zhd\Documents\wordApp\obj\Release\net10.0\win-x64\wordApp.sourcelink.json
