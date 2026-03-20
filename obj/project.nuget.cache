@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/m8IXCYWVE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\i4zhd\\Documents\\wordApp\\wordApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\i4zhd\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\enums.net\\5.0.0\\enums.net.5.0.0.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\extendednumerics.bigdecimal\\2025.1001.2.129\\extendednumerics.bigdecimal.2025.1001.2.129.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\mathnet.numerics.signed\\5.0.0\\mathnet.numerics.signed.5.0.0.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\npoi\\2.7.6\\npoi.2.7.6.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\nsax\\1.0.2\\nsax.1.0.2.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\sixlabors.fonts\\1.0.1\\sixlabors.fonts.1.0.1.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\sixlabors.imagesharp\\2.1.11\\sixlabors.imagesharp.2.1.11.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512",
+    "C:\\Users\\i4zhd\\.nuget\\packages\\zstring\\2.6.0\\zstring.2.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
